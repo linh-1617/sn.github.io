@@ -1,1 +1,1 @@
-https://<tên người dùng>.github.io/<tên repository>
+https://linh-1617.github.io/sn
